@@ -1,0 +1,7 @@
+venv
+.vscode
+./config/Settings.Config
+/config/Settings.Config
+/config/LastKnownDownloadedFileId.txt
+/certs/
+/config/keys/1/Private.key
